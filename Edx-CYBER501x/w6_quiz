@@ -1,0 +1,72 @@
+What are the three main configuration modes for Snort? (Select three)
+Network Intrusion Detection System
+Packet logger
+Sniffer
+
+Snort Unit Quiz
+
+Unit 6 Question
+True or false: In Snort, if a packet doesn’t meet a predefined rule, it is denied.
+True
+*False
+
+Unit 6 Question
+True or false: The Snort Detection Engine uses predefined rules.
+*True
+False
+
+Unit 6 Question
+Which of the following statements is true?
+An IDS and IPS are both out-of-band
+*An IPS is inline, while an IDS is out-of-band
+An IDS and IPS are both inline
+An IDS is inline, while an IPS is out-of-band
+
+Unit 6 Question
+In a Snort rule, what does the symbol <> represent?
+Unidirectional traffic
+Boolean AND
+*Bidirectional traffic
+Boolean Not
+
+Unit 6 Question
+Which of these is not a way that Snort can be connected to a switch?
+Port Mirroring
+Network Tap
+*Packet Filter
+SPAN
+
+Unit 6 Question
+What are the two parts of a Snort rule?
+Decoder and Preprocessor
+Header and Payload
+Options and Payload
+*Header and Options
+
+Unit 6 Question
+Snort can be used as:
+An IDS only
+An IPS only
+*Both an IDS and IPS
+Neither an IDS nor an IPS
+
+Unit 6 Question
+Which of these is not a Snort mode?
+*SPAN
+Packet Logger
+Sniffer
+NIDS
+
+Unit 6 Question
+The Snort decoder determines:
+Outcomes
+Functions
+*Protocols
+Rules
+
+Unit 6 Question
+In Snort, if multiple rules match a packet, which one is used?
+The least restrictive one
+*The highest priority one
+The most restrictive one
+The first sequential one

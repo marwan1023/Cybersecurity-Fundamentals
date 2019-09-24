@@ -1,0 +1,70 @@
+Exploits and Exploiting Unit Quiz
+
+Unit 4 Question
+Which of these is a large database and framework of exploits and payloads?
+Tor
+HackerOne
+*Metasploit
+CSEC
+
+Unit 4 Question
+HackerOne connects ____________ to _________ with their _______ platform.
+pentesters, other pentesters, social media
+*businesses, researchers, bug bounty
+employees, current employers, human resources
+black hat hackers, other black hat hackers, Tor
+
+Unit 4 Question
+The actual code that allows hackers to control systems after they’ve been exploited is known as:
+Preamble
+*Payload
+Pentest
+Packet
+
+Unit 4 Question
+Which of the following is not true regarding the NotPetya ransomware attack of June 2017?
+*The majority of infected systems were in the United States of America.
+It originated from a Ukrainian tax preparation program.
+It was originally believed to be a close variant of the Petya family of encrypting ransomware but later deemed very different.
+Experts believe it really was a “wiper” masquerading as ransomware.
+
+Unit 4 Question
+What is the primary difference between white hat hackers (penetration testers) and black hat hackers?
+Tools
+*Intent
+Skills
+Capabilities
+
+Unit 4 Question
+Zero-day vulnerabilities are ______ by attackers.
+Reported
+Filtered
+Patched
+*Exploited
+
+Unit 4 Question
+When a person participating in a bug bounty program reports a vulnerability to a company, the vulnerability is considered a __________ until the company releases a patch for it.
+buffer overflow
+gray hat
+*zero-day
+pentests
+
+Unit 4 Question
+The vulnerability that led to the WannaCry ransomware attack was discovered by _________, who didn’t report it to Microsoft, turning it into a zero-day vulnerability.
+*The National Security Agency (NSA) of the United States of America
+Hackers
+Pentesters
+Bug bounty participants
+
+Unit 4 Question
+Once a vulnerability is disclosed, the risk or probability of it being exploited:
+Increases
+Stays the same
+*Decreases
+
+Unit 4 Question
+What is most unique about Offensive Security’s Exploit Database?
+When possible, it includes the vulnerable software so the exploits can be tested.
+It includes user submitted exploits.
+It is used by both white hat hackers and black hat hackers.
+*It contains many exploits.

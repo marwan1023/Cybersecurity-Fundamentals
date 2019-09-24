@@ -1,0 +1,67 @@
+DHCP, DNS, and Switch Attacks and Mitigations Unit Quiz
+
+Unit 7 Question
+True or False: Baseline measurements can help mitigate DNS based DDos Attacks.
+*True
+False
+
+Unit 7 Question
+Mitigating a DNS-based DDos Attack can be done by:
+*Geographically dispersing DNS servers
+Centralizing DNS servers
+
+Unit 7 Question
+DHCP Starvation Attacks can be mitigated by:
+Only DHCP Snooping
+Only Port Security
+*Both DHCP Snooping and Port Security
+Neither DHCP Snooping nor Port Securitys
+
+Unit 7 Question
+DNS Cache Poisoning occurs when hackers change:
+Domain names
+TTL values
+Hostnames
+*IP addresses
+
+Unit 7 Question
+DNSSEC involves:
+Only hashing
+Only encryption
+*Both hashing and encryption
+Neither hashing nor encryption
+
+Unit 7 Question
+If a switch gets overloaded by different source MAC addresses and can’t learn any new ones, what happens to the switch?
+It filters from unknown addresses
+It ARPs for new addresses
+*It floods all frames out of all interfaces except the interface on which the frame originated
+It stops working
+
+Unit 7 Question
+Which of these is not a Port Security violation state?
+*Terminate
+Restrict
+Protect
+Shutdown
+
+Unit 7 Question
+What is used to mitigate a CAM Overflow attack?
+ICMP
+DHCP Snooping
+DAI
+*Port Security
+
+Unit 7 Question
+When rogue DHCP servers send offers to clients to perform a MITM attack, which IP address do they set as theirs?
+Client
+Switch
+Broadcast
+*Default Gateway
+
+Unit 7 Question
+DHCP snooping is implemented at the:
+*Server
+Switch
+Client
+Router

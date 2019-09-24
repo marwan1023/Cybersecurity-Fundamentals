@@ -1,0 +1,71 @@
+Access Control Lists Quiz
+
+Unit 5 Question
+An IP address of 10.5.1.0 and wildcard mask of 0.0.254.255 would match
+No subnets of a /24 network
+Even numbered subnets of a /24 network
+All subnets of a /24 network
+*Odd numbered subnets of a /24 network
+
+Unit 5 Question
+The number for a standard ACL is in which range?
+1-100
+*1-99
+100-199
+100-200
+
+Unit 5 Question
+Extended ACLs should be placed as close as possible to the:
+DNS server
+Destination
+DHCP server
+*Source
+
+Unit 5 Question
+A wildcard mask of 0.0.0.255 checks:
+The last 16 bits
+The last 8 bits
+The first 16 bits
+*The first 24 bits
+
+Unit 5 Question
+In an ACL, source IP address can mean all of the following except:
+a broadcast address
+*a classful address for all subnets inside an autonomous system
+a specific subnet
+a host’s 32 bit addresss
+
+Unit 5 Question
+In a wildcard mask, a “1” bit identifies the corresponding IP bit as:
+*A bit that isn’t checked
+A host bit
+A bit that must match
+A network bit
+
+Unit 5 Question
+The lines of an ACL are processed:
+In an order specified by the frame
+In an order specified by the packet
+Randomly
+*Sequentially
+
+Unit 5 Question
+If a router has two interfaces, the maximum number of ACLs that can be applied to that router is:
+Two
+*Four
+Six
+Eight
+
+Unit 5 Question
+If no configured statements in an ACL match a packet, the packet will be:
+*Denied
+Broadcasted
+Unicasted
+Permitted
+
+Unit 5 Question
+If a general statement in an ACL denies a packet on line 2, but a more specific statement permits that same packet on line 5, what happens to the packet?
+It is up to the Layer 4 header
+It depends on the end of the ACL
+*It is denied
+It is permitted

@@ -1,0 +1,68 @@
+Man-In-The-Middle Attacks and Mitigations Unit Quiz
+
+Unit 8 Question
+Which are the recommended protocols to use for VPNs today?
+*SSL/TLS and IPsec
+SSL/TLS and PPTP
+SSL/TLS and L2TP
+PTTP and L2TP
+
+Unit 8 Question
+Which of these is not involved in an Evil Twin attack?
+WiFi
+SSID
+*Ethernet
+Rogue Access Point
+
+Unit 8 Question
+DAI (Dynamic ARP Inspection):
+Never uses DHCP Snooping
+Always uses DHCP Snooping
+*Can, but doesn’t have to, use DHCP Snooping
+
+Unit 8 Question
+ARP Cache Poisoning is used for which type of attack?
+DDoS
+DNS cache poisoning
+*MITM
+CAM overflow
+
+Unit 8 Question
+True or False: When an attacker performing a MITM (Man-In-The-Middle) attack presents a spoofed digital certificate to a victim machine, the browser will display a warning.
+*True
+False
+
+Unit 8 Question
+Which type of security mitigation foiled SSLStrip?
+DNSSEC
+HTTP
+SSL/TLS
+*HSTS
+
+Unit 8 Question
+When using a VPN at Starbucks, your HTTP traffic, inside a TCP segment, will be encapsulated inside of how many IP packets?
+1
+*2
+3
+4
+
+Unit 8 Question
+When an attacker performing a MITM (Man-In-The-Middle) attack presents a digital certificate to a victim, which field will be changed?
+The website’s MAC address
+The website’s private key
+The website’s IP address
+*The website’s public key
+
+Unit 8 Question
+Using DAI (Dynamic ARP Inspection) ports on a switch is classified as:
+ARP or RARP
+*Trusted or untrusted
+Safe or unsafe
+Permit or deny
+
+Unit 8 Question
+ARP Cache Poisoning involves an attacker falsifying:
+The victim’s IP address
+The gateway’s IP address
+The victim’s MAC address
+*The gateway’s MAC address
